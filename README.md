@@ -24,4 +24,8 @@ This is my Simple Docker image to use on [Codefresh](https://codefresh.io/) to d
 
 * [Fly.io Home page](https://fly.io)
 * [Flyctl Githiub](https://github.com/superfly/flyctl)
-* [Official Image]
+* [Official Image](https://hub.docker.com/r/flyio/flyctl)
+
+## License
+
+[License](LICENSE)
